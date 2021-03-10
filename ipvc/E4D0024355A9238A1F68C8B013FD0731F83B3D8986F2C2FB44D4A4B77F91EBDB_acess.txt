@@ -1,0 +1,2 @@
+time=2021-03-10 01:28:00am escola=estg
+time=2021-03-10 08:37:41pm escola=N/D
